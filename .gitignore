@@ -1,6 +1,8 @@
 # Project specific files/folders
-data/
-serialized_models/
+data/*
+!data/.gitkeep
+serialized_models/*
+!serialized_models/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
