@@ -3,6 +3,7 @@ data/*
 !data/.gitkeep
 serialized_models/*
 !serialized_models/.gitkeep
+analysis/*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
